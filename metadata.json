@@ -1,0 +1,6 @@
+{
+  "name": "Gestion des Courriers",
+  "description": "Une application moderne pour la gestion et le suivi des courriers arrivée et départ, avec rapports par département et export PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
